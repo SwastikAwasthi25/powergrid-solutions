@@ -30,3 +30,6 @@ The system continuously monitors electrical parameters using current and voltage
 - Embedded system design and sensor integration  
 - Fault tolerance and safety-oriented system development  
 - Real-time monitoring and response mechanisms  
+## Limitations
+- Sensor readings may vary based on calibration and environmental conditions.
+- System currently relies on Bluetooth for alerts; future versions can integrate GSM or cloud services.
